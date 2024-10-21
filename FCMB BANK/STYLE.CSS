@@ -1,0 +1,289 @@
+.my{
+    display: flex;
+    justify-content: none;
+    list-style-type: none;
+    gap: 110px;
+    background-color: blueviolet;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-top: 20px;
+}
+.my a{
+    color: white;
+}
+.omo{
+    display: inline-flex;
+    justify-content: none;
+    text-align: none;
+    margin-left: 400px;
+    font-weight: bolder;
+    list-style-type: none;
+    gap: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+}
+.omo li{
+    text-align: center;
+    list-style-type: none;
+}
+.opo{
+    background-color: red;
+    color: white;
+    border: 20px;
+    padding: 13px;
+    border-radius: 10px;
+    flex-direction: row;
+    list-style: none;
+    margin-left: 50px;
+}
+.oyo{
+    color: white;
+    background-color: blueviolet;
+    border: 20px;
+    padding: 13px;
+    border-radius: 10px;
+    flex-direction: row;
+    list-style: none;
+    margin-left: 50px;
+}
+.kpk{
+    color: white;
+    background-color: blueviolet;
+    padding: 13px;
+    border: 20px;
+    border-radius: 10px;
+    flex-direction: row;
+    list-style: none;
+    margin-left: 50px;
+}
+ul img{
+    width: 120px;
+    height: 70px;
+}
+.dell {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+.dell li{
+    margin-left: 50px;
+    margin-right: 50px;
+    position: relative;
+}
+.case{
+    float: left;
+    align-items: normal;
+    
+}
+.motto{
+    flex-direction: row;
+    align-items: center;
+    list-style-type: none;
+    justify-content: center;
+    display: flex;
+    gap: 50px;
+    font-weight: bolder;
+}
+.boy{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+    font-size: larger;
+    color: black;
+    display: flex;
+    margin: 10px;
+    border: 0;
+    padding: 0; 
+    gap: 50px;
+    display: flex;
+}
+.to{
+    margin-left: 25px;
+    position: relative;
+    border: 10px;
+    position: relative;
+    font-size: 30px;
+    margin-top: 50px;
+    padding: 50px;
+}
+.to h3{
+    font-size: 20px;
+}
+.to p{
+    font-size: 20px;
+    margin-top: 20px;
+     padding: 20px;
+}
+.account{
+    background-color: rgb(144, 71, 212);
+    padding: 20px;
+    border: 20px;
+    color: white;
+     font-weight: 600;
+     border-radius: 5px;
+     font-size: large;
+}
+.boy h3{
+    font-size: 30px;
+    color: blueviolet;
+    font-weight: 600;
+    padding: 5px;
+    border: 5px;
+}
+.boy p{
+    font-weight: 200;
+}
+.ok img{
+    float: right;
+    position: relative;
+    height:480px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.card{
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    display: inline-flex;
+    padding-left: 100px;
+}
+.card img{
+    float: left;
+}
+.special{ 
+}
+.special{
+    display: inline-flex;
+    justify-content: right;
+    position: relative;
+    gap: 50px;
+    margin: 30px;
+}
+.wax img{
+    float: right;
+    position: relative;
+    padding: 10px;
+   width: 900px;
+   height:400px;
+
+}
+.phone p{
+    font-weight: 4000;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: blueviolet;
+}
+.phone h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+
+}
+.father{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+    display: inline-flex;
+    color: blueviolet;
+    gap: 100px;
+    background-color: rgb(203, 197, 209);
+}
+.wire{
+    background-color: blueviolet;
+    background-color: rgb(213, 183, 241);
+    padding: 4opx;
+    border-radius: 10px;
+    gap: 1000px;
+}
+.mother{
+    border-color: purple;
+    border-radius: 10px;
+    padding: 40px;
+    background-color: rgb(211, 182, 236);
+    gap: 1000;
+}
+.son{
+border-color: blueviolet;
+border-radius: 15px;
+padding: 40px;
+background-color: rgb(211, 187, 233);
+gap: 1000px;
+}
+.vd{
+    margin-top: 10px;
+}
+.SITE{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+    display: inline-flex;
+    gap: 20px;
+}
+.bola{
+    color: blueviolet;
+    gap: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tayo{
+    font-family: Arial, Helvetica, sans-serif;
+    gap: 20px;
+    color: blueviolet;
+}
+.pap{
+    font-family: Arial, Helvetica, sans-serif;
+    gap: 20px;
+    color: blueviolet;
+}
+button{
+    cursor: pointer;
+}
+.sat{
+    font-family: Arial, Helvetica, sans-serif;
+    gap: 20px;
+    color: blueviolet;
+}
+.rope{
+    font-family: Arial, Helvetica, sans-serif;
+    gap: 20px;
+    color: blueviolet;
+}
+.ul p{
+    margin-right: 
+}
+.bola p{
+    margin-right:100px;
+}
+.deep{
+    color: white;
+    background-color: blueviolet;
+    padding: 10px;
+    border: 10px;
+    text-align: right;
+    font-size: 20px;
+    font-weight: 600;
+    position: relative;
+}
+.drip{
+    display: inline-flex;
+    gap: 50px;
+    display: flex;
+    list-style-type: none;
+}
+
+.biug{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.last{
+    color: blueviolet;
+    margin-left: 20px;
+}
+.dance{
+    background-color: rgb(214, 212, 216);
+}
+.frog img{
+   margin-right: 40px; 
+}
